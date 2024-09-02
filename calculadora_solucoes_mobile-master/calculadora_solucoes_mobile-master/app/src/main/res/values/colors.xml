@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#E8DDDD</color>
+    <color name= "backGround">#FFF0F5</color>
+
+    <color name="blue_50">#7B61B3</color>
+    <color name = "botoesLaterais">#FF8C00</color>
+    <color name="blue_40">#FFE5E9</color>
+</resources>
